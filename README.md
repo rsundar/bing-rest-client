@@ -50,7 +50,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Mario Barrios**
 
 - Github: [@mariobarrios](https://github.com/mariobarrios)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Twitter: [@mario_barrioss](https://twitter.com/mario_barrioss)
 - Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
